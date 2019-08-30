@@ -4,7 +4,7 @@
 #
 Name     : mvn-maven-scm-publish-plugin
 Version  : 1.1
-Release  : 2
+Release  : 3
 URL      : https://github.com/apache/maven-scm-publish-plugin/archive/maven-scm-publish-plugin-1.1.tar.gz
 Source0  : https://github.com/apache/maven-scm-publish-plugin/archive/maven-scm-publish-plugin-1.1.tar.gz
 Source1  : https://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-scm-publish-plugin/1.1/maven-scm-publish-plugin-1.1.jar
